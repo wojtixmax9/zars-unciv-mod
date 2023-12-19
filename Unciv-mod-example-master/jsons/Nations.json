@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Zars",
+        "leaderName": "Zarsian Leader",
+        "adjective": ["Zarsian"],
+        "startBias": ["Tundra"],
+        "preferredVictoryType": "Domination",
+
+        "startIntroPart1": "We, Zarsians, rise from the Tundra!",
+        "startIntroPart2": "Our might is unleashed upon the icy lands, for we are the rulers of the frozen expanse!",
+
+        "declaringWar": "Feel the wrath of the Zarsians! None can withstand us!",
+        "attacked": "You dare challenge the might of Zars? Prepare for our icy retribution!",
+        "defeated": "How is it possible that they overcame us? The legends of our fall will echo through eternity.",
+        "introduction": "As lords of the frozen tundra, your existence pales before our power.",
+
+        "neutralHello": "How fares the frozen realm?",
+        "neutralLetsHearIt": ["Speak your mind.","What do you propose?","Let us listen."],
+        "neutralNo": ["Our answer is a firm no.","Absolutely not!","We refuse."],
+        "neutralYes": ["Agreed.","Very well.","That is acceptable."],
+
+        "hateHello": "What audacity brings you before us?",
+        "hateLetsHearIt": ["Speak!","What is it that you wish to say?","Proceed."],
+        "hateNo": ["Such demands are unacceptable!","Our disagreement is absolute!","Unthinkable!"],
+        "hateYes": ["So be it.","That shall suffice.","If we must..."],
+
+        "afterPeace": "Peace has been achieved. For now.",
+        "tradeRequest": "We extend this trade as a sign of goodwill.",
+
+        "outerColor": [16, 16, 16],
+        "innerColor": [255, 200, 200],
+        "unique": "MANIFEST_DESTINY",
+        "cities": ["Frostwatch", "Glacial Keep", "Iceforge Citadel", "Tundran Hold", "Snowbound Bastion", "Chillspire",
+            "Frostbite Stronghold", "Frozen Throne", "Icicle Outpost", "Glacier's Edge", "Crystal Frostheim", "Permafrost Citadel",
+            "Frostwolf Den", "Snowpeak Sanctuary", "Blizzard's Embrace", "Frostbite Haven", "Glacial Sanctuary", "Tundra's Embrace",
+            "Iceborn Citadel", "Tundra's Heart", "Frostborn Bastion", "Arctic Bastion", "Winter's Grasp", "Icebound Hold",
+            "Frozen Watchtower", "Tundra's Might", "Frostbound Citadel", "Glacier's Strength", "Frozen Realm", "Frostland Stronghold",
+            "Icy Dominion", "Snowfall Bastion", "Glacierwatch", "Permafrost Bastion", "Frostwatch Keep", "Snowdrift Citadel"]
+    }
+]
